@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap')
+
+*{
+    margin: 0px;
+    padding: 0 px;
+    box-sizing: border-box;
+}
+ 
+.banner{
+    background: url("image/edwin-andrade-4V1dC_eoCwg-unsplash\ 1.png");
+    background-repeat: no-repeat;
+     background-size: cover;
+    position: relative;
+}
+ 
+.svg{
+    object-fit: cover;
+}
+
+.card{
+    border-radius: 10px;
+     background: #2D3142;
+     color: white;
+}
+
+.card-image{
+    border-radius: 50%;
+    
+}
+.hero{
+    background-color: #F5E5E5 ;
+    
+    
+     
+}
+
+ .discover{
+    background-image: url(./image/1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+ }
+
+ .Interact{
+    background-image: url(./image/2.png);
+    background-position: right;
+    background-repeat: no-repeat;
+ }
+
+ .Engage{
+    background-image: url(./image/3.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+ }
+ .team{
+      
+    background-image: url(image/Rectangle\ 32.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+ }
+ 
+ .arrow{
+    margin-left: 10%;
+ }
+
+ .mission-1{
+    height: 900px;
+    width: 15px;
+    margin-top: 70px
+ }
+
+ 
